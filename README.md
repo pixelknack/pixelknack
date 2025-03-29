@@ -26,15 +26,12 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,solidity,thirdweb,postgresql,linux,nextjs,javascript,python" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,solidity,thirdweb,postgresql,linux,nextjs,javascript,python,c++" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.com)
+
 
 ---
 
